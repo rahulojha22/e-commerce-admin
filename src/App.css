@@ -1,3 +1,10 @@
+@import './css/Style.css';
+@import './css/Sidebar.css';
+@import './css/Footer.css';
+@import './css/Page.css';
+@import './css/layout_style/PublicLayout.css';
+@import './css/components_style/Login.css';
+
 .App {
   text-align: center;
 }
